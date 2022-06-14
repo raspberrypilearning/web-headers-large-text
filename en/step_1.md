@@ -1,6 +1,6 @@
-A <h1> tag is used to say that this content is the largest header on the page. 
+A `<h1>` tag is used to say that this content is the largest header on the page. 
   
-The next header tag is <h2> used for a lower level title.
+The next header tag is `<h2>` used for a lower level title.
   
 --- code ---
 ---
@@ -23,7 +23,7 @@ line_highlights: 2, 7
 
 --- /code ---
   
-**Tip:** The starter project has custom styles in the `style.css` file to set the fonts used by the <h1> and <h2> elements so they match the project fonts palette.
+**Tip:** The starter project has custom styles in the `style.css` file to set the fonts used by the `<h1>` and `<h2>` elements so they match the project fonts palette.
   
 ![A screenshot of placeholder text showing h1, h2, and paragraph html elements with the default project font applied.](images/headers.png)
   
