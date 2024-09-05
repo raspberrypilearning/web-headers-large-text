@@ -38,7 +38,7 @@ filename: index.html
 line_numbers: false
 --- 
 <p class="hugefont">Lorem</p>
-<p class="bigfont"></p>Lorem</p>
+<p class="bigfont">Lorem</p>
 
 --- /code ---
   
