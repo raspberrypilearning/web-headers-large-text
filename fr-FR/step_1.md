@@ -1,8 +1,8 @@
-A `<h1>` tag is used to say that this content is the largest header on the page.
+Une balise `<h1>` est utilisée pour indiquer que ce contenu est le plus grand en-tête de la page.
 
-The next header tag is `<h2>` used for a lower level title.
+La balise d'en-tête suivante est `<h2>`, utilisée pour un titre de niveau inférieur.
 
-To add paragraph text, use the `<p>` tag:
+Pour ajouter du texte de paragraphe, utilise la balise `<p>` :
 
 ## --- code ---
 
@@ -28,11 +28,11 @@ line_highlights: 2, 7
 
 \--- /code ---
 
-**Tip:** The starter project has custom styles in the `style.css` file to set the fonts used by the `<h1>` , `<h2>`, and `<p>` elements so they match the project fonts palette.
+**Astuce :** Le projet de démarrage a des styles personnalisés dans le fichier `style.css` pour définir les polices utilisées par les éléments `<h1>` , `<h2>` et `<p>` de manière à ce qu'elles correspondent à la palette de polices du projet.
 
-![Placeholder text to show \<h1>, \<h2>, and paragraph HTML elements with the default project font applied.](images/headers.png)
+![Texte de remplacement pour afficher les éléments HTML \<h1>, \<h2> et les paragraphes avec la police par défaut du projet](images/headers.png)
 
-You can also use the `bigfont` and `hugefont` custom classes included in the starter project.
+Tu peux également utiliser les classes personnalisées `bigfont` et `hugefont` incluses dans le projet de démarrage.
 
 ## --- code ---
 
@@ -46,4 +46,4 @@ line_numbers: false
 
 \--- /code ---
 
-![The word 'Lorem' in a huge font and then repeated underneath in a big font. The huge font is a lot larger than the big font.](images/size.png)
+![Le mot « Lorem » en énormes caractères, puis répété en dessous en gros caractères. La huge font est beaucoup plus grande que la big font.](images/size.png)
