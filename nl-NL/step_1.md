@@ -1,8 +1,8 @@
-A `<h1>` tag is used to say that this content is the largest header on the page.
+Een `<h1>` tag wordt gebruikt om aan te geven dat deze inhoud de grootste koptekst op de pagina is.
 
-The next header tag is `<h2>` used for a lower level title.
+De volgende headertag is `<h2>` en wordt gebruikt voor een titel op een lager niveau.
 
-To add paragraph text, use the `<p>` tag:
+Om alineatekst toe te voegen, gebruik je de tag `<p>`:
 
 ## --- code ---
 
@@ -28,11 +28,11 @@ line_highlights: 2, 7
 
 \--- /code ---
 
-**Tip:** The starter project has custom styles in the `style.css` file to set the fonts used by the `<h1>` , `<h2>`, and `<p>` elements so they match the project fonts palette.
+**Tip:** Het startproject heeft aangepaste stijlen in het bestand `style.css` om de lettertypen in te stellen die worden gebruikt door de elementen `<h1>` , `<h2>` en `<p>`, zodat ze overeenkomen met het lettertypepalet van het project.
 
-![Placeholder text to show \<h1>, \<h2>, and paragraph HTML elements with the default project font applied.](images/headers.png)
+![Tijdelijke tekst voor het weergeven van \<h1>, \<h2> en alinea-HTML-elementen waarop het standaard projectlettertype is toegepast.](images/headers.png)
 
-You can also use the `bigfont` and `hugefont` custom classes included in the starter project.
+Je kunt ook de `bigfont` en `hugefont` aangepaste klassen gebruiken die in het startersproject zitten.
 
 ## --- code ---
 
@@ -46,4 +46,4 @@ line_numbers: false
 
 \--- /code ---
 
-![The word 'Lorem' in a huge font and then repeated underneath in a big font. The huge font is a lot larger than the big font.](images/size.png)
+![Het woord 'Lorem' in een zeer groot lettertype en dan daaronder herhaald in een grote lettertype. Het zeer grote lettertype is veel groter dan het grote lettertype.](images/size.png)
