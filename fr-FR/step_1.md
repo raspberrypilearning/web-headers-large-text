@@ -30,7 +30,7 @@ line_highlights: 2, 7
 
 **Astuce :** Le projet de démarrage a des styles personnalisés dans le fichier `style.css` pour définir les polices utilisées par les éléments `<h1>` , `<h2>` et `<p>` de manière à ce qu'elles correspondent à la palette de polices du projet.
 
-![Texte de remplacement pour afficher les éléments HTML \<h1>, \<h2> et les paragraphes avec la police par défaut du projet](images/headers.png)
+![Texte de remplacement pour afficher les éléments HTML <h1>, <h2> et les paragraphes avec la police par défaut du projet](images/headers.png)
 
 Tu peux également utiliser les classes personnalisées `bigfont` et `hugefont` incluses dans le projet de démarrage.
 
