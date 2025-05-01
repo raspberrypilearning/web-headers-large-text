@@ -30,7 +30,7 @@ line_highlights: 2, 7
 
 **Tip:** Het startproject heeft aangepaste stijlen in het bestand `style.css` om de lettertypen in te stellen die worden gebruikt door de elementen `<h1>` , `<h2>` en `<p>`, zodat ze overeenkomen met het lettertypepalet van het project.
 
-![Tijdelijke tekst voor het weergeven van \<h1>, \<h2> en alinea-HTML-elementen waarop het standaard projectlettertype is toegepast.](images/headers.png)
+![Tijdelijke tekst voor het weergeven van <h1>, <h2> en alinea-HTML-elementen waarop het standaard projectlettertype is toegepast.](images/headers.png)
 
 Je kunt ook de `bigfont` en `hugefont` aangepaste klassen gebruiken die in het startersproject zitten.
 
