@@ -1,8 +1,8 @@
-A `<h1>` tag is used to say that this content is the largest header on the page.
+使用 `<h1>` 标签来表示此内容是页面上最大的标题。
 
-The next header tag is `<h2>` used for a lower level title.
+下一个标题标签是 `<h2>`，用于较低级别的标题。
 
-To add paragraph text, use the `<p>` tag:
+要添加段落文本，请使用 `<p>` 标签：
 
 ## --- code ---
 
@@ -28,11 +28,11 @@ line_highlights: 2, 7
 
 \--- /code ---
 
-**Tip:** The starter project has custom styles in the `style.css` file to set the fonts used by the `<h1>` , `<h2>`, and `<p>` elements so they match the project fonts palette.
+**提示**：初始项目在 `style.css` 文件中有自定义样式，用于设置 `<h1>` 、 `<h2>` 和 `<p>` 元素使用的字体，以便它们与项目字体调色板相匹配。
 
-![Placeholder text to show <h1>, <h2>, and paragraph HTML elements with the default project font applied.](images/headers.png)
+![占位符文本显示 <h1>、<h2> 和段落 HTML 元素，并应用了默认项目字体。](images/headers.png)
 
-You can also use the `bigfont` and `hugefont` custom classes included in the starter project.
+你还可以使用初始项目中包含的 `bigfont` 和 `hugefont` 自定义类。
 
 ## --- code ---
 
@@ -46,4 +46,4 @@ line_numbers: false
 
 \--- /code ---
 
-![The word 'Lorem' in a huge font and then repeated underneath in a big font. The huge font is a lot larger than the big font.](images/size.png)
+![“Lorem ”一词以巨大的字体显示，然后在下面以大字体重复显示。 巨大字体比大字体要大很多。](images/size.png)
